@@ -1,4 +1,4 @@
-(function(){
+﻿(function(){
   var canvas = $('#canvas');
 
   if (!canvas[0].getContext) {
@@ -176,7 +176,7 @@ function showLove() {
 			<p>看了許多妳的發文跟推文，大概推測出妳的過去跟性格</p>
 			<p>覺得妳是一個很棒 想認識的女生</p>
 			<p></p>
-			<p>真相把網址 / 後面刪除就有了</p>
+			<p>真相把網址第一個 / 之後刪除就有了</p>
 		</div>
 	</div>`;
 
